@@ -1,7 +1,3 @@
-Here’s a **professional, hackathon-ready README.md** for your GitHub repository.
-
-You can copy-paste this directly into `README.md`.
-
 ---
 
 # 🌍 GeoSentinel
